@@ -1,0 +1,142 @@
+{
+  "status": "demo",
+  "business": {
+    "name": "Sample Home Store",
+    "shortName": "Sample Home Store",
+    "tagline": "Furniture, homeware and appliances",
+    "description": "Sample storefront for a Harare furniture and appliance shop. Browse sizes, materials and colours, then enquire on WhatsApp.",
+    "isSample": true,
+    "sampleNote": "Sample Home Store is a demo. Products, sizes and prices are placeholders."
+  },
+  "contact": {
+    "whatsapp": "263770000000",
+    "displayPhone": "+263 77 000 0000"
+  },
+  "brand": {
+    "accent": "#2F5D46",
+    "fontsUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Karla:wght@400;500;700&display=swap",
+    "logo": ""
+  },
+  "seo": {
+    "domain": "sample-home.pages.dev",
+    "ogImage": ""
+  },
+  "hero": {
+    "image": "",
+    "imageAlt": "A styled living room",
+    "eyebrow": "Furniture / Homeware / Appliances",
+    "headline": "Rooms you want to come home to.",
+    "subheadline": "See sizes, materials and colours before you visit. Ask about delivery or collect from our showroom.",
+    "primaryCta": "Shop furniture",
+    "secondaryCta": "Delivery and collection"
+  },
+  "nav": {
+    "cta": "WhatsApp us",
+    "links": [
+      {
+        "label": "Rooms",
+        "href": "#rooms"
+      },
+      {
+        "label": "Shop",
+        "href": "#shop"
+      },
+      {
+        "label": "Delivery",
+        "href": "#delivery"
+      },
+      {
+        "label": "Showroom",
+        "href": "#visit"
+      }
+    ]
+  },
+  "currency": "$",
+  "priceSuffix": "(sample)",
+  "priceFallback": "Ask for price",
+  "rooms": {
+    "title": "Shop by room",
+    "shopTitle": "The collection",
+    "allLabel": "All",
+    "itemsLabel": "items",
+    "emptyText": "Nothing in this room yet. Ask us on WhatsApp.",
+    "list": [
+      {
+        "name": "Living",
+        "gradient": "linear-gradient(160deg,#B9CFC0,#6F9A80)"
+      },
+      {
+        "name": "Bedroom",
+        "gradient": "linear-gradient(160deg,#DCD6E8,#9A8FC4)"
+      },
+      {
+        "name": "Kitchen and dining",
+        "gradient": "linear-gradient(160deg,#F2E2C8,#D4AE78)"
+      },
+      {
+        "name": "Appliances",
+        "gradient": "linear-gradient(160deg,#5B6B62,#232E28)"
+      },
+      {
+        "name": "Decor",
+        "gradient": "linear-gradient(160deg,#EBD3CF,#C98F86)"
+      }
+    ]
+  },
+  "availability": {
+    "in": {
+      "label": "In stock",
+      "color": "#0F5132"
+    },
+    "order": {
+      "label": "Made to order, about 2 weeks",
+      "color": "#7A3F00"
+    },
+    "enquire": {
+      "label": "Ask for availability",
+      "color": "#3D4F44"
+    }
+  },
+  "modes": [
+    "Delivery",
+    "Collection"
+  ],
+  "delivery": {
+    "cards": [
+      {
+        "title": "Delivery",
+        "text": "[DELIVERY AREAS, FEES AND LEAD TIME]. We confirm the date on WhatsApp before dispatch."
+      },
+      {
+        "title": "Collection",
+        "text": "[COLLECTION ADDRESS AND HOURS]. Bring the order message from WhatsApp."
+      },
+      {
+        "title": "Made to order",
+        "text": "[CUSTOM SIZES AND FABRICS, DEPOSIT TERMS]"
+      }
+    ]
+  },
+  "visit": {
+    "title": "Visit the showroom",
+    "text": "[SHOWROOM NAME], [ADDRESS], Harare. [OPEN] to [CLOSE].",
+    "cta": "Book a viewing on WhatsApp",
+    "message": "Hi Sample Home Store, I would like to book a viewing at the showroom."
+  },
+  "messages": {
+    "general": "Hi Sample Home Store, I saw your website and would like to ask about a product."
+  },
+  "modal": {
+    "enquire": "Enquire on WhatsApp",
+    "sizeLabel": "Size",
+    "materialLabel": "Material",
+    "availabilityLabel": "Availability",
+    "colourLabel": "Colour",
+    "modeLabel": "How would you like it?",
+    "relatedLabel": "Pairs well with"
+  },
+  "footer": {
+    "left": "Demo layout: products, sizes and prices are placeholders.",
+    "right": "Built by WeVibed"
+  }
+}

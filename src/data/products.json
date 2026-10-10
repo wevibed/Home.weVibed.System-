@@ -1,0 +1,333 @@
+{
+  "items": [
+    {
+      "id": "sofa",
+      "name": "Three-Seater Sofa",
+      "category": "Living",
+      "price": 640,
+      "availability": "order",
+      "dims": "210 W x 90 D x 85 H cm",
+      "material": "Hardwood frame, woven fabric",
+      "colours": [
+        {
+          "name": "Sage",
+          "hex": "#9DB5A4"
+        },
+        {
+          "name": "Oat",
+          "hex": "#D9CDB8"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3B4140"
+        }
+      ],
+      "tint": 0,
+      "image": "",
+      "description": "Deep seat with removable covers. Choose the fabric colour when you order.",
+      "related": [
+        "coffee",
+        "rug"
+      ]
+    },
+    {
+      "id": "coffee",
+      "name": "Round Coffee Table",
+      "category": "Living",
+      "price": 120,
+      "availability": "in",
+      "dims": "80 dia x 42 H cm",
+      "material": "Solid wood top, steel legs",
+      "colours": [
+        {
+          "name": "Oak",
+          "hex": "#B98E5E"
+        },
+        {
+          "name": "Walnut",
+          "hex": "#5E4130"
+        },
+        {
+          "name": "Black",
+          "hex": "#1B1D1F"
+        }
+      ],
+      "tint": 1,
+      "image": "",
+      "description": "Rounded edges, suited to small living rooms.",
+      "related": [
+        "sofa",
+        "floor-lamp"
+      ]
+    },
+    {
+      "id": "tv-unit",
+      "name": "TV Unit with Drawers",
+      "category": "Living",
+      "price": 210,
+      "availability": "in",
+      "dims": "160 W x 40 D x 50 H cm",
+      "material": "Engineered wood, laminate",
+      "colours": [
+        {
+          "name": "Oak",
+          "hex": "#B98E5E"
+        },
+        {
+          "name": "White",
+          "hex": "#F2F2EF"
+        },
+        {
+          "name": "Walnut",
+          "hex": "#5E4130"
+        }
+      ],
+      "tint": 2,
+      "image": "",
+      "description": "Holds screens up to 65 inches with cable access at the back.",
+      "related": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "bed",
+      "name": "Queen Bed Frame",
+      "category": "Bedroom",
+      "price": 380,
+      "availability": "in",
+      "dims": "160 W x 210 L x 100 H cm",
+      "material": "Hardwood slats, upholstered headboard",
+      "colours": [
+        {
+          "name": "Oat",
+          "hex": "#D9CDB8"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3B4140"
+        },
+        {
+          "name": "Navy",
+          "hex": "#2B3A55"
+        }
+      ],
+      "tint": 3,
+      "image": "",
+      "description": "Upholstered headboard with strong slat base. Mattress sold separately.",
+      "related": [
+        "mattress",
+        "wardrobe"
+      ]
+    },
+    {
+      "id": "mattress",
+      "name": "Orthopaedic Mattress, Queen",
+      "category": "Bedroom",
+      "price": 290,
+      "availability": "in",
+      "dims": "152 x 203 x 25 cm",
+      "material": "High-density foam, quilted cover",
+      "colours": [
+        {
+          "name": "White",
+          "hex": "#F2F2EF"
+        }
+      ],
+      "tint": 3,
+      "image": "",
+      "description": "Firm support with a breathable cover.",
+      "related": [
+        "bed"
+      ]
+    },
+    {
+      "id": "wardrobe",
+      "name": "Three-Door Wardrobe",
+      "category": "Bedroom",
+      "price": 350,
+      "availability": "enquire",
+      "dims": "135 W x 52 D x 190 H cm",
+      "material": "Engineered wood, mirror door",
+      "colours": [
+        {
+          "name": "White",
+          "hex": "#F2F2EF"
+        },
+        {
+          "name": "Oak",
+          "hex": "#B98E5E"
+        },
+        {
+          "name": "Walnut",
+          "hex": "#5E4130"
+        }
+      ],
+      "tint": 2,
+      "image": "",
+      "description": "Hanging rail, two shelves and a mirrored centre door.",
+      "related": [
+        "bed"
+      ]
+    },
+    {
+      "id": "dining-table",
+      "name": "Six-Seater Dining Table",
+      "category": "Kitchen and dining",
+      "price": 310,
+      "availability": "in",
+      "dims": "180 W x 90 D x 76 H cm",
+      "material": "Solid wood top, steel frame",
+      "colours": [
+        {
+          "name": "Oak",
+          "hex": "#B98E5E"
+        },
+        {
+          "name": "Walnut",
+          "hex": "#5E4130"
+        },
+        {
+          "name": "Black",
+          "hex": "#1B1D1F"
+        }
+      ],
+      "tint": 1,
+      "image": "",
+      "description": "Seats six comfortably. Chairs sold separately.",
+      "related": [
+        "dining-chairs"
+      ]
+    },
+    {
+      "id": "dining-chairs",
+      "name": "Dining Chairs, Set of Four",
+      "category": "Kitchen and dining",
+      "price": 180,
+      "availability": "order",
+      "dims": "45 W x 52 D x 88 H cm each",
+      "material": "Wood legs, padded seat",
+      "colours": [
+        {
+          "name": "Sage",
+          "hex": "#9DB5A4"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#3B4140"
+        },
+        {
+          "name": "Oat",
+          "hex": "#D9CDB8"
+        }
+      ],
+      "tint": 1,
+      "image": "",
+      "description": "Padded seats with wipe-clean fabric.",
+      "related": [
+        "dining-table"
+      ]
+    },
+    {
+      "id": "fridge",
+      "name": "Double-Door Fridge Freezer",
+      "category": "Appliances",
+      "price": 520,
+      "availability": "in",
+      "dims": "70 W x 68 D x 178 H cm",
+      "material": "Steel, 400 L capacity",
+      "colours": [
+        {
+          "name": "Silver",
+          "hex": "#C4C8CC"
+        },
+        {
+          "name": "Black",
+          "hex": "#1B1D1F"
+        }
+      ],
+      "tint": 4,
+      "image": "",
+      "description": "Frost-free, adjustable shelves. Warranty: [WARRANTY TERMS].",
+      "related": [
+        "microwave"
+      ]
+    },
+    {
+      "id": "microwave",
+      "name": "Microwave Oven 28 L",
+      "category": "Appliances",
+      "price": 95,
+      "availability": "in",
+      "dims": "51 W x 40 D x 30 H cm",
+      "material": "Steel, 900 W",
+      "colours": [
+        {
+          "name": "Black",
+          "hex": "#1B1D1F"
+        },
+        {
+          "name": "Silver",
+          "hex": "#C4C8CC"
+        }
+      ],
+      "tint": 4,
+      "image": "",
+      "description": "Digital controls with defrost setting.",
+      "related": [
+        "fridge"
+      ]
+    },
+    {
+      "id": "floor-lamp",
+      "name": "Arc Floor Lamp",
+      "category": "Decor",
+      "price": 70,
+      "availability": "in",
+      "dims": "35 W x 170 H cm",
+      "material": "Steel stem, linen shade",
+      "colours": [
+        {
+          "name": "Brass",
+          "hex": "#B8923A"
+        },
+        {
+          "name": "Black",
+          "hex": "#1B1D1F"
+        }
+      ],
+      "tint": 5,
+      "image": "",
+      "description": "Warm light for reading corners. Takes a standard E27 bulb.",
+      "related": [
+        "sofa",
+        "rug"
+      ]
+    },
+    {
+      "id": "rug",
+      "name": "Woven Area Rug",
+      "category": "Decor",
+      "price": 85,
+      "availability": "in",
+      "dims": "160 x 230 cm",
+      "material": "Cotton and jute blend",
+      "colours": [
+        {
+          "name": "Oat",
+          "hex": "#D9CDB8"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9DB5A4"
+        }
+      ],
+      "tint": 1,
+      "image": "",
+      "description": "Flat weave, easy to vacuum.",
+      "related": [
+        "sofa",
+        "coffee"
+      ]
+    }
+  ]
+}
